@@ -1,0 +1,1 @@
+# Estimate-the-charges-levied-by-Courier-Delivery-partners-per-Order-are-correct.
